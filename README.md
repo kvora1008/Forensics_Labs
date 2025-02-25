@@ -1,1 +1,1 @@
-# This folder contains the reports that were created during forensics.
+# This repository contains the reports that were created during forensics.
